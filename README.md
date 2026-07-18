@@ -110,23 +110,13 @@ process.name:"cmd.exe"
 
 ## Kibana Dashboard
 
-(Add Screenshot)
-
 ## Event Viewer
-
-(Add Screenshot)
 
 ## Sysmon Events
 
-(Add Screenshot)
-
 ## Winlogbeat Configuration
 
-(Add Screenshot)
-
 ## Discover View
-
-(Add Screenshot)
 
 ---
 
